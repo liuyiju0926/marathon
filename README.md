@@ -1,6 +1,6 @@
 "# marathon"
 
-git clone https://github.com/yctung56815681/marathon.git<br/>
+git clone https://github.com/liuyiju0926/marathon.git<br/>
 cd marathon<br/>
 composer install<br/>
 
@@ -16,3 +16,5 @@ php artisan db:seed<br/>
 
 php artisan key:generate<br/>
 php artisan serve<br/>
+
+我負責的部分是 signup teamSignup query
